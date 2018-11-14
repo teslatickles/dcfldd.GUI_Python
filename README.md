@@ -7,4 +7,4 @@ Python + tkinter + dcfldd with multi-threading and subprocess modules. In an att
 
 
 
-![gui example two](/example2.png?s=120)
+![gui example two](/example2.png?s=500)
