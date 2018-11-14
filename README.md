@@ -6,4 +6,4 @@ Python + tkinter + dcfldd with multi-threading and subprocess modules. In an att
 
 <img src="example1.png" width="28%"/>    <img src="example2.png" width="30%"/>
 
-<img src="relative_path1.png" width="38%"/>  
+<img src="relative_path1.png" width="52%"/>  
