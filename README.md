@@ -4,6 +4,6 @@
 Python + tkinter + dcfldd with multi-threading and subprocess modules. In an attempt to save my girlfriend and myself time in flashing copious amounts of uSD cards, I've began writing this python script to handle the commands to bash and allow for quicker and more accessible experience.
 
 
-<img src="example1.png" width="35%"/>  <img src="example2.png" width="35%"/>
+<img src="example1.png" width="32%"/>  <img src="example2.png" width="31%"/>
 
-<img src="relative_path1.png" width="28%"/>  <img src="relative_path2.png" width="25%"/>
+<img src="relative_path1.png" width="35%"/>  <img src="relative_path2.png" width="35%"/>
